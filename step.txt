@@ -1,0 +1,5 @@
+fino 14.10 
+
+
+gestione rotta rolls delegata a file urls.py dell app specifica (rolls)
+con http://127.0.0.1:8000/rolls/
