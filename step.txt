@@ -1,5 +1,14 @@
+
+Install Python
+Install Vscode
+
+Install CHROME
+
+
 fino 14.10 
 
 
 gestione rotta rolls delegata a file urls.py dell app specifica (rolls)
 con http://127.0.0.1:8000/rolls/
+
+gestione admin site of sqlite and django model with rooting http://127.0.0.1:8000/admin/
